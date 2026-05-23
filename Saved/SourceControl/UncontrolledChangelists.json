@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal/FPS Multiplayer Template v6 (5.5 & 5.6)/Content/FPS/UI/Menus/WB_MainMenu.uasset",
+				"D:/Unreal/FPS Multiplayer Template v6 (5.5 & 5.6)/Content/FPS/UI/Textures/Hit_or_Split.uasset",
+				"D:/Unreal/FPS Multiplayer Template v6 (5.5 & 5.6)/Content/FPS/UI/Textures/Hit_or_Split_Ai.uasset"
+			]
+		}
+	]
+}
